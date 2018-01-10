@@ -4,3 +4,4 @@ I turned myself into a Gameboy using a foam board, a 10" HDMI display, a Raspber
 
 [Video here](https://www.youtube.com/watch?v=P55AuMkCZGg)
 
+[![](images/gameboy-costume/1.jpg)](https://www.youtube.com/watch?v=P55AuMkCZGg)
