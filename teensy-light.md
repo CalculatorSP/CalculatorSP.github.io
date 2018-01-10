@@ -4,4 +4,4 @@ I used RGB LED strips to make a dynamic backlighting system for my roommate's co
 
 [Video here](https://www.youtube.com/watch?v=7MaTTZratJc)
 
-![](images/teensy-light/1.png)
+[![](images/teensy-light/1.png)](https://www.youtube.com/watch?v=7MaTTZratJc)
