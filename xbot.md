@@ -19,3 +19,4 @@ In order to get the best performance in Guitar Hero, I decided to forgo video pr
 To detect the start of the song, the bot uses an audio cue. There is a "thump" sound that the game plays exactly as the song starts - when the bot detects that (using PortAudio), it begins executing the note chart sequence.
 
 [Here's a video](https://www.youtube.com/watch?v=VtDMKWXlOP4) of the bot playing Through the Fire and Flames on Expert.
+[![](images/xbot/1.png)](https://www.youtube.com/watch?v=VtDMKWXlOP4)
