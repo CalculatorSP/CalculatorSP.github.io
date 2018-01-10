@@ -2,6 +2,9 @@
 
 Here are a few of my ongoing/past projects, in various states of completion.
 
+## [Gameboy Costume](gameboy-costume.md)
+![](images/gameboy-costume/1.jpg)
+
 ## [TeensyLight](teensy-light.md)
 ![](images/teensy-light/1.png)
 
