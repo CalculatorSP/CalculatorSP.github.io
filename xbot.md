@@ -10,7 +10,7 @@ Here are the games I've worked on so far:
 
 ### Chessmaster Live
 
-Using the Stockfish API, I created a bot that could play chess and easily win against the computer. Implementing the actual "decision making" part was easy with Stockfish - chooshing the next move is as simple as making an API call. The tricky part was detecting what move had been made by the opponent. For this, I used OpenCV to analyze video data of the 2D chess board. The algorithm waited for a move to be made, and then decided which squares had been involved in the move by determining which squares exhibited the greatest change in color over the course of the move. It then cross-referenced a list of currently legal moves from Stockfish to estimate which move the opponent most likely made.
+Using the Stockfish API, I created a bot that could play chess against the computer. Implementing the actual "decision making" part was straightforward with Stockfish - chooshing the next move is as simple as making an API call. The tricky part was detecting what move had been made by the opponent. For this, I used OpenCV to analyze video data of the 2D chess board. The algorithm waited for a move to be made, and then decided which squares had been involved in the move by determining which squares exhibited the greatest change in color over the course of the move. It then cross-referenced a list of currently legal moves from Stockfish to estimate which move the opponent most likely made.
 
 ### Guitar Hero III
 
@@ -21,3 +21,7 @@ To detect the start of the song, the bot uses an audio cue. There is a "thump" s
 [Here's a video](https://www.youtube.com/watch?v=VtDMKWXlOP4) of the bot playing Through the Fire and Flames on Expert.
 
 [![](images/xbot/1.png)](https://www.youtube.com/watch?v=VtDMKWXlOP4)
+
+### Halo 4
+
+
