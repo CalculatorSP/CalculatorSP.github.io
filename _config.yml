@@ -2,3 +2,5 @@ theme: jekyll-theme-slate
 title: John Miller
 description: Project Site
 show_downloads: false
+plugins:
+   - youtube
