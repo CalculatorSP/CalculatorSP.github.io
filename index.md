@@ -3,6 +3,7 @@
 Here are a few of my ongoing/past projects, in various states of completion.
 
 ## [Xbot](xbot.md)
+![](images/xbot/1.png)
 
 ## [Gameboy Costume](gameboy-costume.md)
 ![](images/gameboy-costume/1.jpg)
