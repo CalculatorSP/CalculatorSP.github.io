@@ -24,4 +24,4 @@ To detect the start of the song, the bot uses an audio cue. There is a "thump" s
 
 ### Halo 4
 
-
+My end goal with Halo is to make a fully autonomous bot that's able to compete with human players. The first challenge has been to make a system for detecting, tracking, and aiming at enemies. In Halo 4, enemies have red triangles when you aim near them. The bot uses a template-based method for detecting the triangle, and tracks its location using a Kalman filter. To move the crosshairs, it uses a motion estimation model to determine how far to tilt the joystick, and in what direction.
