@@ -1,3 +1,11 @@
+# CV
+
+<object data="CV190212a.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="CV190212a.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="CV190212a.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 # Projects
 
 Here are a few of my ongoing/past projects, in various states of completion.
